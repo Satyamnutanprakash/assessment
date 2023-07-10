@@ -1,0 +1,6 @@
+assessment.settings_form:
+  title: 'assessment'
+  description: 'Configure assessment.'
+  parent: system.admin_config_system
+  route_name: assessment.settings_form
+  weight: 10

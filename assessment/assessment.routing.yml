@@ -1,0 +1,7 @@
+assessment.settings_form:
+  path: '/admin/config/system/assessment'
+  defaults:
+    _title: 'assessment settings'
+    _form: 'Drupal\assessment\Form\SettingsForm'
+  requirements:
+    _permission: 'administer assessment configuration'

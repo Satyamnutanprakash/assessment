@@ -1,0 +1,4 @@
+administer assessment configuration:
+  title: 'Administer assessment configuration'
+  description: 'Optional description.'
+  restrict access: true
